@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
+body{
+    text-align: center;
+    font-family: 'Noto Sans Mono', monospace;
+    background-color:powderblue;
+}
+h3{
+    text-align: justify;
+}
